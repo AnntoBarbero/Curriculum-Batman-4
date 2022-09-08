@@ -1,0 +1,17 @@
+ h1{
+    color: darkcyan;
+    text-align: center;
+    background-color: darkgray;
+}
+h2{
+    color: darkcyan;
+    background-color: darkgray;
+}
+footer{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: darkcyan;
+}
+header{
+    text-align: center;
+}
